@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://kshitijhatwar.xyz" target="_blank">
-    <img src="https://kshitijhatwar-bucket.s3.ap-south-1.amazonaws.com/personal/portfolio-screenshot.png" width="80%" />
+    <img src="https://kshitijhatwar.xyz/image.png" width="80%" />
   </a>
 </p>
 

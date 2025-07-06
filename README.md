@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://kshitijhatwar.xyz" target="_blank">
-    <img src="https://kshitijhatwar.xyz/image.png" width="80%" />
+    <img src="https://kshitijhatwar.xyz/assets/images/port-img.png" width="80%" />
   </a>
 </p>
 
